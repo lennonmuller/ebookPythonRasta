@@ -4,4 +4,4 @@ O ebook Rasta Python - A Jornada do Código Consciente é uma jornada prática e
 
 
 
-eBook -  Python Rasta by Lennon Müler
+eBook -  Rasta Python by Lennon Müler
